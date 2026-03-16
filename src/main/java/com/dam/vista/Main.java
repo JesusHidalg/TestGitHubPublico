@@ -2,9 +2,10 @@ package com.dam.vista;
 
 public class Main {
 
-    static void main() {
+    public static void main(String[] args) {
 
-        IO.println("Hola Git!!");
+        System.out.println("Hola Git!!");
+
 
     }
 
